@@ -12,7 +12,7 @@
 	<atom:link href="/cb/feed/" rel="self" type="application/rss+xml" />
 	<link>/cb/</link>
 	<description>An ISO 9001:2008 Certified Company.</description>
-	<lastBuildDate>Thu, 22 Jun 2023 05:24:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Jun 2023 06:16:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Semiconductor Laboratorary, Mohali</title>
+		<link>/cb/in-progress/semiconductor-laboratorary-mohali/</link>
+		
+		<dc:creator><![CDATA[sharan]]></dc:creator>
+		<pubDate>Sat, 24 Jun 2023 06:05:43 +0000</pubDate>
+				<category><![CDATA[In Progress]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">/cb/?p=491</guid>
+
+					<description><![CDATA[Semiconductor Laboratorary, Mohali]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Subcontractor Solicitation &#038; Procurement</title>
 		<link>/cb/services/subcontractor-solicitation-procurement/</link>
 		
@@ -135,6 +150,21 @@
 		<guid isPermaLink="false">/cb/?p=307</guid>
 
 					<description><![CDATA[Menu All Sevices Scheduling Cost Estimating Value Engineering Project Management Team Building Safety Prevention Pre Construction Subcontractor Solicitation &#038; Procurement Scheduling As experts in the industry, our team of professionals is able to handle all of your company’s construction scheduling needs, affording you greater efficiency and savings at every job site. Our comprehensive services allow [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oakridge International School, Landran, Mohali</title>
+		<link>/cb/projects/oakridge-international-school-landran-mohali/</link>
+		
+		<dc:creator><![CDATA[sharan]]></dc:creator>
+		<pubDate>Sat, 24 Jun 2017 06:12:30 +0000</pubDate>
+				<category><![CDATA[Completed Projects]]></category>
+		<category><![CDATA[Institutional]]></category>
+		<guid isPermaLink="false">/cb/?p=503</guid>
+
+					<description><![CDATA[Oakridge International School, Landran, Mohali]]></description>
 		
 		
 		
